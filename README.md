@@ -1,2 +1,6 @@
 # TikTok-live-Chat-reader-feedback
-Ejecutables de una app hecha en Python para manejo de los live de tiktok
+
+DEMO:
+
+https://github.com/user-attachments/assets/39315e9f-0dda-47e7-99df-415cce62ccf0
+
