@@ -10,7 +10,7 @@ Si tienes alguna sugerencia de mejora, no dudes en dejarnos tus comentarios desd
 
 Además, si estás interesado en un desarrollo personalizado,[ ¡no dudes en contactarme!](https://momdontgo.dev)
 
-[Descarga](https://github.com/dimasb69/TikTok-live-Chat-reader-feedback/releases)
+[Descarga](https://github.com/dimasb69/TikTok-live-Chat-reader-feedback/releases) Nota: Es posible que el instalador para Windows sea detectado como un virus debido a que el ejecutable de instalación no posee firmas registradas por Microsoft. Si lo prefieres, puedes optar por descargar el archivo .zip, que es una versión portátil. Ten en cuenta que todo el contenido del archivo .zip debe permanecer en la misma carpeta para que se reconozcan todas las librerías.
 
 
 https://github.com/user-attachments/assets/3bc7f166-be1b-4c08-8fc8-cadbf8ff63f7
